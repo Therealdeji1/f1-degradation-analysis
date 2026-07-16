@@ -57,11 +57,5 @@ change (following in dirty air).
 Degradation rates for Bahrain 2024, stint 1: ~0.08–0.09 s/lap across the
 four drivers analyzed (VER, PER, LEC, SAI).
 
-## How to run
-```bash
-pip install -r requirements.txt
-python f1proj.py
-```
 
-## Requirements
-See `requirements.txt`.
+
